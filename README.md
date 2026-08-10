@@ -11,6 +11,9 @@ CLI, Copilot, and [70+ others](https://github.com/vercel-labs/skills#supported-a
 npx skills add Caliber-Works/skills
 ```
 
+Also listed in the skills directory at
+[skills.sh/caliber-works/skills](https://www.skills.sh/caliber-works/skills).
+
 ## Skills
 
 | Skill | What it does | Requires |
